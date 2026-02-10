@@ -6,7 +6,8 @@
 
 ###### Question 1: How can you retrieve all the information from the cd.facilities table?
 
-```SELECT 
+```
+SELECT 
   * 
 FROM 
   cd.facilities;
